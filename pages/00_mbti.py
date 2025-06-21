@@ -1,2 +1,2 @@
 import streamlit as st
-st.image("https://giphy.com/gifs/BearishAF-big-hugs-sending-you-a-hug-wish-i-could-MH57LN9co9gv6fz6fP")
+st.image("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xoNnpvbHJpNWs1Zm5nZnQ2cnFjbGo3ZzBsNTVydHl5MzFmZ3gyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FX2pWRqziuFGZmp5nu/giphy.gif")
